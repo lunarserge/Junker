@@ -15,4 +15,6 @@ where Blocked-Senders-File is an export from the Outlook Junk Email Options.
 
 The utility will suggest what should be removed or added to the Blocked Senders List or will report "Blocked-Senders-File is good" in case no change is required.
 
+Since this utility works with Microsoft Outlook it is meant to only be built and used on Windows.
+
 PS. I totally realize C++ isn't the best language for this type of utilities. I did it this way to brush up my C++ skills a little.
